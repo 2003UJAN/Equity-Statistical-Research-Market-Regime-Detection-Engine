@@ -1,0 +1,14 @@
+.streamlit/secrets.toml
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+.DS_Store
+.idea/
+.vscode/
