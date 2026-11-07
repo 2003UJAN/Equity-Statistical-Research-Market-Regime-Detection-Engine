@@ -1,0 +1,1 @@
+# Equity-Statistical-Research-Market-Regime-Detection-Engine
